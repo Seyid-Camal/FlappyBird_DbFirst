@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Flappy_Bird.1.0.0, Configuration: Debug Any CPU ------
+1>  COM Reference 'WMPLib' is the interop assembly for ActiveX control 'AxWMPLib' but was marked to be linked by the compiler with the /link flag. This COM reference will be treated as a reference and will not be linked.
+1>  Flappy_Bird.1.0.0 -> C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Flappy_Bird.1.0.0.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

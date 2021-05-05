@@ -1,0 +1,46 @@
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Flappy_Bird.1.0.0.exe.config
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Flappy_Bird.1.0.0.exe
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Flappy_Bird.1.0.0.pdb
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csprojAssemblyReference.cache
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Oyun_Paneli.resources
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Kullanıcı_Formu.resources
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Properties.Resources.resources
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csproj.GenerateResource.cache
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.exe
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.pdb
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Ana_Sayfa.resources
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csproj.ResolveComReference.cache
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Şifre_Yenileme.resources
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Start_Game.resources
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.dll
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.xml
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seyid\Desktop\C# Ödevler\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csproj.CopyComplete
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Flappy_Bird.1.0.0.exe.config
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Flappy_Bird.1.0.0.exe
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Flappy_Bird.1.0.0.pdb
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.dll
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.xml
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csprojAssemblyReference.cache
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csproj.ResolveComReference.cache
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Ana_Sayfa.resources
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Oyun_Paneli.resources
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Kullanıcı_Formu.resources
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Properties.Resources.resources
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Start_Game.resources
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird._1._0._0.Şifre_Yenileme.resources
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csproj.GenerateResource.cache
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.csproj.CopyComplete
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.exe
+C:\Users\seyid\Desktop\Flappy_Bird.1.0.0\Flappy_Bird.1.0.0\obj\Debug\Flappy_Bird.1.0.0.pdb

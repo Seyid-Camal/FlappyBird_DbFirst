@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Flappy_BirdModelStoreContainer" CdmEntityContainer="Flappy_BirdEntities4">
+    <EntitySetMapping Name="Member">
+      <EntityTypeMapping TypeName="Flappy_BirdModel.Member">
+        <MappingFragment StoreEntitySet="Member">
+          <ScalarProperty Name="MemberID" ColumnName="MemberID" />
+          <ScalarProperty Name="NameLastName" ColumnName="NameLastName" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="PasswordRepeat" ColumnName="PasswordRepeat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PasswordRenewal">
+      <EntityTypeMapping TypeName="Flappy_BirdModel.PasswordRenewal">
+        <MappingFragment StoreEntitySet="PasswordRenewal">
+          <ScalarProperty Name="PasswordRenewalID" ColumnName="PasswordRenewalID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="PasswordRepeat" ColumnName="PasswordRepeat" />
+          <ScalarProperty Name="HomePageID" ColumnName="HomePageID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
